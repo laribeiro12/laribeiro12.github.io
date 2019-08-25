@@ -30,13 +30,13 @@ layout: compress
     <header class="header">
         <h1>Larissa Ribeiro Moreira<span>Graduanda Da Universidade Federal de Viçosa - Campus Florestal<br>Licenciatura em Matemática.</span></h1>
         <nav class="links">
-            <a href="https://twitter.com/LariRibeiroM22?s=08">
+            <a href="https://twitter.com/LariRibeiroM22?s=08" target="_blank">
             
             <img src="twitter-logo-1.png" height="42" width="42">
             
             </a>
-            <a href="https://www.facebook.com/profile.php?id=100007096837749">    <img src="facelogo.png" height="42" width="42"></a>
-    <a target="_blank" style="opacity: 1;" href="http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K2552768E6#   ">
+            <a href="https://www.facebook.com/profile.php?id=100007096837749" target="_blank">    <img src="facelogo.png" height="42" width="42"></a>
+    <a target="_blank" style="opacity: 1;" href="http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K2552768E6#" target="_blank">
     <img src="latteslogo.png" height="42" width="42">
     </a>
  
