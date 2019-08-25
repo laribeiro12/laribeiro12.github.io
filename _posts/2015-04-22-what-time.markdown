@@ -17,4 +17,4 @@ Faço Iniciação Científica voluntária desde Setembro de 2018, em Teoria de G
 
 Participo de um projeto de extensão chamado "Desafios da Matemática", que tem o intuito de despertar o interesse de alunos do ensino básico, por meio de jogos e brincadeiras envolvendo Matemática.
 Para conhecer mais sobre o projeto, veja nosso instagram:<a href="https://instagram.com/desafios_matematica?igshid=5wku3i1r2142" target="_blank"> https://instagram.com/desafios_matematica?igshid=5wku3i1r2142
-<br><center><img src="img/desmat.png" height="500" width="500" align="center"></a></center>
+<br><center><img src="img/desmat.png" height="350" width="350" align="center"></a></center>
